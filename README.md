@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vieira-pires-450437270/)
 
-![Nicolas` GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasPires777&show_icons=true&theme=github_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasPires777&theme=tokyonight-duo&exclude_days=Sun)](https://git.io/streak-stats)
 
 ## Technologies that I have experience with:
