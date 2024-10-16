@@ -4,13 +4,13 @@
 
 ![Nicolas` GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasPires777&show_icons=true&theme=dracula)
 
-## Tecnologies that have some experience:
+## Technologies that I have experience with:
 
 <div style="display: inline-block"><br/>
-    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white">
-    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/GoLang-00000F?style=for-the-badge&logo=golang&logoColor=white">
-    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Backend-D83B01?style=for-the-badge&logoColor=white">
+    <img align= "center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align= "center" alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img align= "center" alt="Backend" src="https://img.shields.io/badge/Backend-FF6F00?style=for-the-badge&logo=server&logoColor=white">
 </div><br/>
-   I intend to specialize in API development, Machine Learning and Data Analysis.  
-   I'm studying Systems Analysis and Development at FMP and working at ![Zedia](https://www.zedia.com.br/), where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
+I intend to specialize in API development, Machine Learning and Data Analysis.  
+I'm studying Systems Analysis and Development at FMP and working at [Zedia](https://www.zedia.com.br/), where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
