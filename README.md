@@ -13,4 +13,4 @@
     <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Backend-D83B01?style=for-the-badge&logoColor=white">
 </div><br/>
    I intend to specialize in API development, Machine Learning and Data Analysis.  
-   I'm studying Systems Analysis and Development at FMP and working at [Zedia](https://www.zedia.com.br/), where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
+   I'm studying Systems Analysis and Development at FMP and working at ![Zedia](https://www.zedia.com.br/), where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
