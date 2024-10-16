@@ -10,7 +10,7 @@
     <img align= "center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align= "center" alt="GoLang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    <img align= "center" alt="Backend" src="https://img.shields.io/badge/Backend-FF6F00?style=for-the-badge&logo=server&logoColor=white">
+    <img align= "center" alt="API" src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white">
 </div><br/>
 I intend to specialize in API development, Machine Learning and Data Analysis.  
-I'm studying Systems Analysis and Development at FMP and working at [Zedia](https://www.zedia.com.br/), where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
+I'm studying Systems Analysis and Development at FMP and working at Zedia, where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
