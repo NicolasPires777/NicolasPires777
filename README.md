@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi! My name is Nicolas. Welcome to my Github! ✋
 
-<!--
-**NicolasPires777/NicolasPires777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vieira-pires-450437270/)
 
-Here are some ideas to get you started:
+![Nicolas` GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasPires777&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias usadas por mim!
+
+<div style="display: inline-block"><br/>
+    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/GoLang-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Backend-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+</div><br/>
+   I intend to specialize in API development, Machine Learning and Data Analysis.  
+   I'm studying Systems Analysis and Development at FMP and working at [Zedia](https://www.zedia.com.br/), where I'm gaining a lot of experience and growing in the area I'm interested in specializing in.
